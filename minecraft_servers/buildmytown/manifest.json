@@ -9,12 +9,6 @@
       "tiktok": "buildmytown.de"
     },
     "gamemodes": {
-      "citybuild": {
-        "name": "CityBuild", 
-        "color": " #e6965e",
-        "versions": "1.20.4",
-        "command": "/citybuildserver"
-      },
       "inselbuild": {
         "name": "InselBuild", 
         "color": " #e6965e",
